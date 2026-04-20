@@ -8,12 +8,14 @@
 
 *Uygulamayı yaparken kullandıklarım:
 
-Dil: Dart
-Uygulama Geliştirme Platformu: Flutter
-Sayfa Mimarisi: Scaffold Widget'ı
-Kod Editörü (IDE): Visual Studio Code
-SDK ve Emülatör Yönetimi: Android Studio
-Emülatör: Android Studio - Medium Phone
+*Uygulamayı yaparken kullandıklarım:
+
+* **Dil:** Dart
+* **Uygulama Geliştirme Platformu:** Flutter
+* **Sayfa Mimarisi:** Scaffold Widget'ı
+* **Kod Editörü (IDE):** Visual Studio Code
+* **SDK ve Emülatör Yönetimi:** Android Studio
+* **Emülatör:** Android Studio - Medium Phone
 
 Geliştirici Bilgileri:
 Ad: Arda Anıl
